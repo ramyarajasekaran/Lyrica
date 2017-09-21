@@ -80,6 +80,7 @@
   },
   "version": "3.0.0",
   "dependencies": {
+    "apiai": "^4.0.3",
     "body-parser": "^1.18.1",
     "express": "^4.15.4",
     "request": "^2.82.0"
